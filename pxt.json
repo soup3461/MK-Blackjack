@@ -1,0 +1,26 @@
+{
+    "name": "blackjack",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "dict_ext": "github:The-Code-Zone/Dictionary-pxt-extension#v1.0.5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.58",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "pyprj"
+}
